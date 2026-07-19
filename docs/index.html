@@ -2,22 +2,291 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>JIF Cookbook</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Jerusalem International Fellows: The Cookbook">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+  <title>JIF Cookbook</title>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:ital,opsz,wght@0,9..150,400;0,9..150,500;0,9..150,600;1,9..150,400&display=swap" rel="stylesheet">
+  
+  <!-- Docsify Theme -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  
+  <!-- ANyashina Brand Styles -->
   <style>
     :root {
-      --base-color: #3A8A88;
-      --accent-color: #2C4B6E;
+      /* ANyashina Color Palette */
+      --primary-teal: #3A8A88;
+      --accent-navy: #2C4B6E;
+      --background-warm-white: #F7F4F0;
+      --secondary-sand: #C8BBAA;
+      --text-dark: #2C2C2C;
+      --text-light: #666666;
+      
+      /* Typography */
+      --font-display: 'Cormorant Garamond', serif;
+      --font-body: 'DM Sans', sans-serif;
+      
+      /* Spacing */
+      --spacing-xs: 0.5rem;
+      --spacing-sm: 1rem;
+      --spacing-md: 1.5rem;
+      --spacing-lg: 2rem;
+      --spacing-xl: 3rem;
     }
-    h1, h2, h3 { color: var(--accent-color); }
-    a { color: var(--base-color); }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      background-color: var(--background-warm-white);
+      font-family: var(--font-body);
+      color: var(--text-dark);
+    }
+
+    /* Cover Page */
+    .markdown-section h1 {
+      font-family: var(--font-display);
+      font-size: 3.5rem;
+      font-weight: 600;
+      color: var(--accent-navy);
+      margin-bottom: var(--spacing-md);
+      letter-spacing: -0.02em;
+    }
+
+    .markdown-section h2 {
+      font-family: var(--font-display);
+      font-size: 2rem;
+      font-weight: 600;
+      color: var(--accent-navy);
+      margin-top: var(--spacing-lg);
+      margin-bottom: var(--spacing-md);
+      border-left: 4px solid var(--primary-teal);
+      padding-left: var(--spacing-md);
+    }
+
+    .markdown-section h3 {
+      font-family: var(--font-display);
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: var(--primary-teal);
+      margin-top: var(--spacing-lg);
+    }
+
+    .markdown-section h4, .markdown-section h5, .markdown-section h6 {
+      font-family: var(--font-body);
+      font-weight: 600;
+      color: var(--text-dark);
+    }
+
+    .markdown-section p {
+      line-height: 1.7;
+      font-size: 1rem;
+      color: var(--text-dark);
+    }
+
+    .markdown-section a {
+      color: var(--primary-teal);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(58, 138, 136, 0.2);
+      transition: all 0.2s ease;
+    }
+
+    .markdown-section a:hover {
+      color: var(--accent-navy);
+      border-bottom-color: var(--accent-navy);
+    }
+
+    /* Sidebar */
+    .sidebar {
+      background-color: var(--background-warm-white);
+      border-right: 1px solid var(--secondary-sand);
+    }
+
+    .sidebar ul li a {
+      color: var(--text-dark);
+      font-size: 0.95rem;
+      transition: all 0.2s ease;
+    }
+
+    .sidebar ul li a:hover {
+      color: var(--primary-teal);
+    }
+
+    .sidebar ul li.active > a {
+      color: var(--primary-teal);
+      font-weight: 600;
+      border-right: 3px solid var(--primary-teal);
+    }
+
+    .sidebar h1 {
+      font-family: var(--font-display);
+      color: var(--accent-navy);
+      font-size: 1.5rem;
+      border-bottom: 2px solid var(--primary-teal);
+      padding-bottom: var(--spacing-sm);
+      margin-bottom: var(--spacing-lg);
+    }
+
+    /* Header / Nav */
+    .app-nav {
+      background-color: var(--background-warm-white);
+      border-bottom: 1px solid var(--secondary-sand);
+    }
+
+    .app-nav a {
+      color: var(--text-dark);
+      font-family: var(--font-body);
+    }
+
+    /* Search */
+    .search input {
+      background-color: white;
+      border: 1px solid var(--secondary-sand);
+      color: var(--text-dark);
+      font-family: var(--font-body);
+    }
+
+    .search input:focus {
+      border-color: var(--primary-teal);
+      box-shadow: 0 0 0 3px rgba(58, 138, 136, 0.1);
+    }
+
+    .search .search-keyword {
+      color: var(--primary-teal);
+    }
+
+    /* Tables */
+    .markdown-section table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: var(--spacing-lg) 0;
+    }
+
+    .markdown-section table th {
+      background-color: var(--secondary-sand);
+      color: var(--text-dark);
+      font-weight: 600;
+      padding: var(--spacing-sm);
+      text-align: left;
+      font-family: var(--font-body);
+    }
+
+    .markdown-section table td {
+      border-bottom: 1px solid var(--secondary-sand);
+      padding: var(--spacing-sm);
+    }
+
+    .markdown-section table tr:hover {
+      background-color: rgba(58, 138, 136, 0.05);
+    }
+
+    /* Code blocks */
+    .markdown-section code {
+      font-family: 'Monaco', 'Courier New', monospace;
+      background-color: rgba(58, 138, 136, 0.05);
+      color: var(--primary-teal);
+      padding: 0.2em 0.4em;
+      border-radius: 3px;
+    }
+
+    .markdown-section pre {
+      background-color: var(--text-dark);
+      color: #fff;
+      padding: var(--spacing-md);
+      border-radius: 4px;
+      overflow-x: auto;
+    }
+
+    .markdown-section pre code {
+      background-color: transparent;
+      color: inherit;
+      padding: 0;
+    }
+
+    /* Blockquotes */
+    .markdown-section blockquote {
+      border-left: 4px solid var(--primary-teal);
+      color: var(--text-light);
+      padding: var(--spacing-md);
+      margin: var(--spacing-lg) 0;
+      background-color: rgba(58, 138, 136, 0.05);
+    }
+
+    /* Emphasis */
+    .markdown-section strong {
+      font-weight: 600;
+      color: var(--accent-navy);
+    }
+
+    /* Main content area */
+    .content {
+      padding-top: 0;
+    }
+
+    /* Mobile responsive */
+    @media (max-width: 600px) {
+      .markdown-section h1 {
+        font-size: 2rem;
+      }
+
+      .markdown-section h2 {
+        font-size: 1.3rem;
+      }
+
+      .sidebar {
+        transform: translateX(0);
+      }
+    }
+
+    /* Cover page customization */
+    .cover {
+      background-color: var(--background-warm-white);
+    }
+
+    .cover-main {
+      text-align: center;
+    }
+
+    .cover-main h1 {
+      font-family: var(--font-display);
+      font-size: 3rem;
+      color: var(--accent-navy);
+      margin-bottom: 0.5rem;
+    }
+
+    .cover-main p {
+      font-family: var(--font-body);
+      font-size: 1.2rem;
+      color: var(--primary-teal);
+      margin-bottom: var(--spacing-lg);
+    }
+
+    .cover-main button {
+      background-color: var(--primary-teal);
+      color: white;
+      border: none;
+      padding: var(--spacing-sm) var(--spacing-lg);
+      font-family: var(--font-body);
+      font-size: 1rem;
+      border-radius: 2px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .cover-main button:hover {
+      background-color: var(--accent-navy);
+    }
   </style>
 </head>
 <body>
   <div id="app">Loading...</div>
+
   <script>
     window.$docsify = {
       name: 'JIF Cookbook',
@@ -25,19 +294,41 @@
       basePath: '/jif-cookbook/',
       homepage: 'home.md',
       loadSidebar: '_sidebar.md',
+      loadNavbar: false,
+      coverpage: '_coverpage.md',
       autoHeader: true,
       auto2top: true,
-      themeColor: '#3A8A88',
-      coverpage: '_coverpage.md',
       maxLevel: 4,
+      themeColor: '#3A8A88',
+      
       search: {
         paths: 'auto',
-        placeholder: 'Search...',
-        noData: 'No results',
-        depth: 4
-      }
+        placeholder: 'Search the Cookbook...',
+        noData: 'No results found',
+        depth: 4,
+        hideOtherSidebarContent: false
+      },
+
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      
+      plugins: [
+        function(hook, vm) {
+          hook.beforeEach(function(html) {
+            return html
+          })
+          hook.afterEach(function(html, next) {
+            var url = 'https://github.com/anyashina/jif-cookbook/blob/main/docs' + vm.route.file
+            var editHtml = '\n\n----\n\n' +
+              '<small style="color: #999">' +
+              '[Edit on GitHub](' + url + ')' +
+              '</small>'
+            next(html + editHtml)
+          })
+        }
+      ]
     }
   </script>
+
   <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
