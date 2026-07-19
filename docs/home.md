@@ -20,21 +20,21 @@ This is not an archive. It's a **working guide for the next director**.
 ## Where to Start
 
 **If you're the next director of JIF:**
-1. Read [Section 3: The Recipes](/docs/cookbook/03-recipes.md) — This is your operational manual
-2. Review [Financial Operations Playbook](/docs/financial-operations/playbook.md) — Understand the money
-3. Consult [16-Week Startup Timeline](/docs/supporting-documents/startup-timeline.md) — Know your calendar
-4. Reference [Decision Matrix](/docs/supporting-documents/decision-matrix.md) — Understand authority and escalation
+1. Read [Section 3: The Recipes](cookbook/03-recipes.md) — This is your operational manual
+2. Review [Financial Operations Playbook](financial-operations/playbook.md) — Understand the money
+3. Consult [16-Week Startup Timeline](supporting-documents/startup-timeline.md) — Know your calendar
+4. Reference [Decision Matrix](supporting-documents/decision-matrix.md) — Understand authority and escalation
 
 **If you're replicating this program in a new city:**
-1. Read [The Methodology of Serendipity](/docs/for-replicators/methodology.md) — Understand the framework
-2. Review [Budget Templates](/docs/for-replicators/budgets.md) — Customize for your city
-3. Consult [Host Organization Vetting](/docs/for-replicators/host-org-vetting.md) — Find your partners
-4. Study [Selection Process](/docs/for-replicators/selection-process.md) — Build your nominator network
+1. Read [The Methodology of Serendipity](for-replicators/methodology.md) — Understand the framework
+2. Review [Budget Templates](for-replicators/budgets.md) — Customize for your city
+3. Consult [Host Organization Vetting](for-replicators/host-org-vetting.md) — Find your partners
+4. Study [Selection Process](for-replicators/selection-process.md) — Build your nominator network
 
 **If you're a board member or funder:**
-1. Read [Section 5: The Vision](/docs/cookbook/05-vision.md) — Understand the mission
-2. Review [Sustainability Projections](/docs/financial-operations/playbook.md) — See the funding model
-3. Consult [Budget Templates](/docs/for-replicators/budgets.md) — Understand cost by scale
+1. Read [Section 5: The Vision](cookbook/05-vision.md) — Understand the mission
+2. Review [Sustainability Projections](financial-operations/playbook.md) — See the funding model
+3. Consult [Budget Templates](for-replicators/budgets.md) — Understand cost by scale
 
 ---
 
@@ -43,57 +43,57 @@ This is not an archive. It's a **working guide for the next director**.
 ### 1. **Timeline** — Program history
 Chronological record of the program's evolution, structural changes, key inflection points, and the decisions that shaped the work.
 
-[Read Section 1 →](/docs/cookbook/01-timeline.md)
+[Read Section 1 →](cookbook/01-timeline.md)
 
 ### 2. **Kitchen Notes** — Stakeholder voices
 Direct quotes and perspectives from Fellows, host organization directors, local cultural figures, and staff. What did they experience? What worked? What didn't?
 
 *Status: Placeholder — awaiting interviews with Ruth Cummings, Elana Ben-Haim, Nermeen Shweiki, and others*
 
-[Read Section 2 →](/docs/cookbook/02-kitchen-notes.md)
+[Read Section 2 →](cookbook/02-kitchen-notes.md)
 
 ### 3. **The Recipes** — How it actually runs
 Operational guide: nomination process, host organization selection, week-by-week structure, role of the disorientation week, salon design, staff responsibilities, decision-making.
 
-[Read Section 3 →](/docs/cookbook/03-recipes.md)
+[Read Section 3 →](cookbook/03-recipes.md)
 
 ### 4. **The Network** — Relationship map
 Who the key people are, what role they play, how they connect to each other. The network you spent 16 years building.
 
 *Status: Held — sequencing and depth TBD*
 
-[Read Section 4 →](/docs/cookbook/04-network.md)
+[Read Section 4 →](cookbook/04-network.md)
 
 ### 5. **The Vision** — Why this matters
 Elise's reflection on what was built, what she wants for it, and the Methodology of Serendipity: the framework for replication in other cities.
 
-[Read Section 5 →](/docs/cookbook/05-vision.md)
+[Read Section 5 →](cookbook/05-vision.md)
 
 ---
 
 ## Supporting Materials
 
 **Financial Operations**
-- [Complete Financial Playbook](/docs/financial-operations/playbook.md) — Staffing costs, per-Fellow budgets, cash flow, host org support, scalability analysis, replication templates
-- [Financial Materials Inventory](/docs/financial-operations/materials-inventory.md) — What documents exist, what's pending
+- [Complete Financial Playbook](financial-operations/playbook.md) — Staffing costs, per-Fellow budgets, cash flow, host org support, scalability analysis, replication templates
+- [Financial Materials Inventory](financial-operations/materials-inventory.md) — What documents exist, what's pending
 
 **Organizational & Operational**
-- [Org Chart & Job Descriptions](/docs/supporting-documents/org-chart.md)
-- [16-Week Startup Timeline](/docs/supporting-documents/startup-timeline.md)
-- [Decision Matrix & Authority Escalation](/docs/supporting-documents/decision-matrix.md)
+- [Org Chart & Job Descriptions](supporting-documents/org-chart.md)
+- [16-Week Startup Timeline](supporting-documents/startup-timeline.md)
+- [Decision Matrix & Authority Escalation](supporting-documents/decision-matrix.md)
 
 **Historical Reference**
-- [2022 On Track Consulting Evaluation](/docs/supporting-documents/2022-evaluation.md) — Comprehensive 52-page review
-- [2014-2018 Bellagio Strategic Plan](/docs/supporting-documents/2014-strategic-plan.md)
-- [MailChimp Voice Synthesis](/docs/supporting-documents/mailchimp-voice.md)
-- [Press Archive](/docs/supporting-documents/press.md)
+- [2022 On Track Consulting Evaluation](supporting-documents/2022-evaluation.md) — Comprehensive 52-page review
+- [2014-2018 Bellagio Strategic Plan](supporting-documents/2014-strategic-plan.md)
+- [MailChimp Voice Synthesis](supporting-documents/mailchimp-voice.md)
+- [Press Archive](supporting-documents/press.md)
 
 **For Replicators**
-- [Budget Templates](/docs/for-replicators/budgets.md) — Ready-to-customize for any city
-- [Staffing Model](/docs/for-replicators/staffing.md)
-- [Host Organization Vetting Process](/docs/for-replicators/host-org-vetting.md)
-- [Selection Methodology](/docs/for-replicators/selection-process.md)
-- [The Methodology of Serendipity](/docs/for-replicators/methodology.md) — Five-question framework
+- [Budget Templates](for-replicators/budgets.md) — Ready-to-customize for any city
+- [Staffing Model](for-replicators/staffing.md)
+- [Host Organization Vetting Process](for-replicators/host-org-vetting.md)
+- [Selection Methodology](for-replicators/selection-process.md)
+- [The Methodology of Serendipity](for-replicators/methodology.md) — Five-question framework
 
 ---
 
