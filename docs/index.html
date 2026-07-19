@@ -292,10 +292,11 @@
       name: 'JIF Cookbook',
       repo: 'https://github.com/anyashina/jif-cookbook',
       basePath: '/jif-cookbook/',
-      homepage: 'home.md',
-      loadSidebar: '_sidebar.md',
+      homepage: '/home.md',
+      loadSidebar: true,
+      sidebar: '_sidebar.md',
       loadNavbar: false,
-      coverpage: '_coverpage.md',
+      coverpage: false,
       autoHeader: true,
       auto2top: true,
       maxLevel: 4,
@@ -309,23 +310,7 @@
         hideOtherSidebarContent: false
       },
 
-      formatUpdated: '{MM}/{DD} {HH}:{mm}',
-      
-      plugins: [
-        function(hook, vm) {
-          hook.beforeEach(function(html) {
-            return html
-          })
-          hook.afterEach(function(html, next) {
-            var url = 'https://github.com/anyashina/jif-cookbook/blob/main/docs' + vm.route.file
-            var editHtml = '\n\n----\n\n' +
-              '<small style="color: #999">' +
-              '[Edit on GitHub](' + url + ')' +
-              '</small>'
-            next(html + editHtml)
-          })
-        }
-      ]
+      formatUpdated: '{MM}/{DD} {HH}:{mm}'
     }
   </script>
 
