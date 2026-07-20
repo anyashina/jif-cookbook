@@ -73,27 +73,19 @@ Elise's reflection on what was built, what she wants for it, and the Methodology
 
 ## Supporting Materials
 
-**Financial Operations**
-- [Complete Financial Playbook](financial-operations/playbook.md) — Staffing costs, per-Fellow budgets, cash flow, host org support, scalability analysis, replication templates
-- [Financial Materials Inventory](financial-operations/materials-inventory.md) — What documents exist, what's pending
-
-**Organizational & Operational**
-- [Org Chart & Job Descriptions](supporting-documents/org-chart.md)
-- [16-Week Startup Timeline](supporting-documents/startup-timeline.md)
-- [Decision Matrix & Authority Escalation](supporting-documents/decision-matrix.md)
-
-**Historical Reference**
-- [2022 On Track Consulting Evaluation](supporting-documents/2022-evaluation.md) — Comprehensive 52-page review
-- [2014-2018 Bellagio Strategic Plan](supporting-documents/2014-strategic-plan.md)
-- [MailChimp Voice Synthesis](supporting-documents/mailchimp-voice.md)
-- [Press Archive](supporting-documents/press.md)
+**Historical Reference & Evaluation**
+- [2022 On Track Consulting Evaluation](supporting-documents/2022-evaluation.md) — Independent assessment of the pilot residency
+- [Financial Operations Playbook](supporting-documents/financial-playbook.md) — Staffing costs, per-fellow budgets, cash flow models
+- [2014-2018 Bellagio Strategic Plan](supporting-documents/strategic-plan-2014-2018.md) — Five-year expansion roadmap
+- [MailChimp Voice Synthesis](supporting-documents/mailchimp-voice.md) — Public communications archive (2022-2025)
+- [Press Archive](supporting-documents/press-archive.md) — News coverage and cultural diplomacy impact
 
 **For Replicators**
-- [Budget Templates](for-replicators/budgets.md) — Ready-to-customize for any city
-- [Staffing Model](for-replicators/staffing.md)
-- [Host Organization Vetting Process](for-replicators/host-org-vetting.md)
-- [Selection Methodology](for-replicators/selection-process.md)
-- [The Methodology of Serendipity](for-replicators/methodology.md) — Five-question framework
+- [The Methodology of Serendipity](for-replicators/methodology.md) — Five core questions for adaptation
+- [Budget Templates](for-replicators/budgets.md) — Scalable models for three cost-of-living tiers
+- [Staffing Model](for-replicators/staffing.md) — Organizational structure and hiring timelines
+- [Host Organization Vetting](for-replicators/host-org-vetting.md) — Partnership evaluation rubric
+- [Fellow Recruitment & Selection](for-replicators/selection-process.md) — Closed nomination system
 
 ---
 
