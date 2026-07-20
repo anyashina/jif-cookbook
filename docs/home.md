@@ -21,9 +21,9 @@ This is not an archive. It's a **working guide for the next director**.
 
 **If you're the next director of JIF:**
 1. Read [Section 3: The Recipes](cookbook/03-recipes.md) — This is your operational manual
-2. Review [Financial Operations Playbook](financial-operations/playbook.md) — Understand the money
-3. Consult [16-Week Startup Timeline](supporting-documents/startup-timeline.md) — Know your calendar
-4. Reference [Decision Matrix](supporting-documents/decision-matrix.md) — Understand authority and escalation
+2. Review [Financial Operations Playbook](supporting-documents/financial-playbook.md) — Understand the money
+3. Review [Section 1: The Timeline](cookbook/01-timeline.md) — Understand program history and evolution
+4. Consult [The Recipes](cookbook/03-recipes.md) — Detailed operational procedures
 
 **If you're replicating this program in a new city:**
 1. Read [The Methodology of Serendipity](for-replicators/methodology.md) — Understand the framework
@@ -33,7 +33,7 @@ This is not an archive. It's a **working guide for the next director**.
 
 **If you're a board member or funder:**
 1. Read [Section 5: The Vision](cookbook/05-vision.md) — Understand the mission
-2. Review [Sustainability Projections](financial-operations/playbook.md) — See the funding model
+2. Review [Financial Operations Playbook](supporting-documents/financial-playbook.md) — See the funding model
 3. Consult [Budget Templates](for-replicators/budgets.md) — Understand cost by scale
 
 ---
