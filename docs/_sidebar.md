@@ -38,10 +38,8 @@
 
 ## **SUPPORTING DOCUMENTS**
 
-* [Org Chart & Job Descriptions](/docs/supporting-documents/org-chart.md)
-* [Startup Timeline](/docs/supporting-documents/startup-timeline.md)
-* [Decision Matrix](/docs/supporting-documents/decision-matrix.md)
-* [2022 Evaluation](/docs/supporting-documents/2022-evaluation.md)
-* [Strategic Plan (2014-2018)](/docs/supporting-documents/2014-strategic-plan.md)
+* [2022 Evaluation Report](/docs/supporting-documents/2022-evaluation.md)
+* [Strategic Plan (2014-2018)](/docs/supporting-documents/strategic-plan-2014-2018.md)
 * [MailChimp Voice Analysis](/docs/supporting-documents/mailchimp-voice.md)
-* [Press Archive](/docs/supporting-documents/press.md)
+* [Press Archive](/docs/supporting-documents/press-archive.md)
+* [Supporting Docs Index](/docs/supporting-documents/INDEX.md)
