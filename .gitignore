@@ -20,3 +20,7 @@ build/
 # Local development
 .env
 .env.local
+
+# Hugo
+public/
+resources/
