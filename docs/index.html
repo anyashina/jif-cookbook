@@ -8,15 +8,12 @@
   
   <title>JIF Cookbook</title>
   
-  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:ital,opsz,wght@0,9..150,400;0,9..150,500;0,9..150,600;1,9..150,400&display=swap" rel="stylesheet">
   
-  <!-- Docsify Theme -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   
-  <!-- ANyashina Brand Styles -->
   <style>
     :root {
       --primary-teal: #3A8A88;
@@ -25,12 +22,9 @@
       --secondary-sand: #C8BBAA;
       --text-dark: #2C2C2C;
       --text-light: #666666;
-      --jif-gold: #C9B8A1;
     }
 
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
     html, body {
       background-color: var(--background-warm-white);
@@ -43,53 +37,36 @@
       font-size: 3rem;
       font-weight: 600;
       color: var(--accent-navy);
-      margin-bottom: 1.5rem;
     }
 
     .markdown-section h2 {
       font-family: 'Cormorant Garamond', serif;
-      font-size: 2rem;
-      font-weight: 600;
+      font-size: 1.8rem;
       color: var(--accent-navy);
-      margin-top: 2rem;
-      margin-bottom: 1.5rem;
       border-left: 4px solid var(--primary-teal);
       padding-left: 1.5rem;
+      margin-top: 2rem;
     }
 
     .markdown-section h3 {
       font-family: 'Cormorant Garamond', serif;
       font-size: 1.5rem;
-      font-weight: 600;
       color: var(--primary-teal);
-    }
-
-    .markdown-section h4, .markdown-section h5, .markdown-section h6 {
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 600;
-      color: var(--text-dark);
-    }
-
-    .markdown-section p {
-      line-height: 1.7;
-      font-size: 1rem;
     }
 
     .markdown-section a {
       color: var(--primary-teal);
-      text-decoration: none;
-      border-bottom: 1px solid rgba(58, 138, 136, 0.2);
     }
 
     .markdown-section a:hover {
       color: var(--accent-navy);
-      border-bottom-color: var(--accent-navy);
     }
 
-    /* SIDEBAR STYLES */
     .sidebar {
       background-color: var(--background-warm-white);
       border-right: 1px solid var(--secondary-sand);
+      position: relative;
+      height: 100vh;
     }
 
     .sidebar-logo {
@@ -103,14 +80,11 @@
       width: 100%;
       max-width: 240px;
       height: auto;
-      display: block;
-      margin: 0 auto;
     }
 
     .sidebar ul li a {
       color: var(--text-dark);
       font-size: 0.95rem;
-      transition: all 0.2s ease;
     }
 
     .sidebar ul li a:hover {
@@ -123,9 +97,7 @@
       border-right: 3px solid var(--primary-teal);
     }
 
-    .sidebar h1 {
-      display: none;
-    }
+    .sidebar h1 { display: none; }
 
     .sidebar-footer {
       position: absolute;
@@ -147,7 +119,6 @@
     .sidebar-footer p {
       font-size: 0.8rem;
       color: var(--text-light);
-      line-height: 1.3;
       margin: 0;
     }
 
@@ -157,7 +128,6 @@
     }
 
     .search input {
-      background-color: white;
       border: 1px solid var(--secondary-sand);
       color: var(--text-dark);
     }
@@ -165,110 +135,63 @@
     .search input:focus {
       border-color: var(--primary-teal);
     }
-
-    .markdown-section table {
-      border-collapse: collapse;
-      width: 100%;
-      margin: 2rem 0;
-    }
-
-    .markdown-section table th {
-      background-color: var(--secondary-sand);
-      color: var(--text-dark);
-      font-weight: 600;
-      padding: 1rem;
-      text-align: left;
-    }
-
-    .markdown-section table td {
-      border-bottom: 1px solid var(--secondary-sand);
-      padding: 1rem;
-    }
-
-    .markdown-section blockquote {
-      border-left: 4px solid var(--primary-teal);
-      color: var(--text-light);
-      padding: 1.5rem;
-      margin: 2rem 0;
-      background-color: rgba(58, 138, 136, 0.05);
-    }
-
-    .markdown-section strong {
-      font-weight: 600;
-      color: var(--accent-navy);
-    }
-
-    @media (max-width: 600px) {
-      .markdown-section h1 {
-        font-size: 2rem;
-      }
-      .markdown-section h2 {
-        font-size: 1.3rem;
-      }
-    }
   </style>
 </head>
 <body>
-  <div id="app">Loading...</div>
+  <div id="app"></div>
 
   <script>
     window.$docsify = {
       name: 'Jerusalem International Fellows: The Cookbook',
       repo: 'https://github.com/anyashina/jif-cookbook',
-      basePath: '/jif-cookbook/',
-      homepage: '/home.md',
+      homepage: 'home.md',
       loadSidebar: true,
-      sidebar: '_sidebar.md',
       loadNavbar: false,
       coverpage: false,
       autoHeader: true,
       auto2top: true,
       maxLevel: 3,
       themeColor: '#3A8A88',
-      
-      search: {
-        paths: 'auto',
-        placeholder: 'Search...',
-        noData: 'No results',
-        depth: 3
-      },
+      search: 'auto'
+    };
+  </script>
 
-      plugins: [
-        function(hook) {
-          hook.doneEach(function() {
-            // Add JIF logo after sidebar loads
-            setTimeout(function() {
-              const sidebar = document.querySelector('.sidebar');
-              const sidebarNav = document.querySelector('.sidebar-nav');
-              
-              if (sidebar && sidebarNav) {
-                // Remove old logo if it exists
-                const oldLogo = sidebar.querySelector('.sidebar-logo');
-                if (oldLogo) oldLogo.remove();
-                
-                // Add new logo
-                const logo = document.createElement('div');
-                logo.className = 'sidebar-logo';
-                logo.innerHTML = '<img src="/jif-cookbook/docs/assets/jif-logo.svg" alt="Jerusalem International Fellows">';
-                sidebarNav.parentElement.insertBefore(logo, sidebarNav);
-              }
-              
-              // Add feather footer
-              if (sidebar && !sidebar.querySelector('.sidebar-footer')) {
-                const footer = document.createElement('div');
-                footer.className = 'sidebar-footer';
-                footer.innerHTML = '<img src="/jif-cookbook/docs/assets/feather.png" alt="Feather"><p>Prepared by<br>ANyashina LLC</p>';
-                sidebar.appendChild(footer);
-              }
-            }, 50);
-          });
+  <script>
+    // Add logo and footer after page loads
+    function addBranding() {
+      const sidebar = document.querySelector('.sidebar');
+      if (!sidebar) {
+        setTimeout(addBranding, 100);
+        return;
+      }
+
+      // Add logo
+      if (!sidebar.querySelector('.sidebar-logo')) {
+        const logo = document.createElement('div');
+        logo.className = 'sidebar-logo';
+        logo.innerHTML = '<img src="./assets/jif-logo.svg" alt="Jerusalem International Fellows">';
+        const sidebarNav = sidebar.querySelector('.sidebar-nav');
+        if (sidebarNav) {
+          sidebarNav.parentElement.insertBefore(logo, sidebarNav);
         }
-      ]
+      }
+
+      // Add footer
+      if (!sidebar.querySelector('.sidebar-footer')) {
+        const footer = document.createElement('div');
+        footer.className = 'sidebar-footer';
+        footer.innerHTML = '<img src="./assets/feather.png" alt="Feather"><p>Prepared by<br>ANyashina LLC</p>';
+        sidebar.appendChild(footer);
+      }
     }
+
+    // Watch for sidebar changes
+    window.addEventListener('load', addBranding);
+    const observer = new MutationObserver(addBranding);
+    observer.observe(document.body, { childList: true, subtree: true });
   </script>
 
   <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
