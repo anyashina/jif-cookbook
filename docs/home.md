@@ -9,15 +9,15 @@ A practitioner's guide to understanding, running, and replicating the Jerusalem 
 Start here if you're stepping into the role of running this program in Jerusalem or elsewhere.
 
 **Read in this order:**
-1. **[Section 1: The Timeline](/docs/cookbook/01-timeline.md)** — Understand the program's evolution and key decisions
-2. **[Section 2: Kitchen Notes](/docs/cookbook/02-kitchen-notes.md)** — Hear directly from Fellows, hosts, and cultural leaders
-3. **[Section 3: The Recipes](/docs/cookbook/03-recipes.md)** — Learn how to actually run the program, step by step
-4. **[Section 4: The Network](/docs/cookbook/04-network.md)** — Know who matters and how they connect
-5. **[Section 5: The Vision](/docs/cookbook/05-vision.md)** — Understand the deeper "why" and methodology
+1. **[Section 1: The Timeline](/cookbook/01-timeline.md)** — Understand the program's evolution and key decisions
+2. **[Section 2: Kitchen Notes](/cookbook/02-kitchen-notes.md)** — Hear directly from Fellows, hosts, and cultural leaders
+3. **[Section 3: The Recipes](/cookbook/03-recipes.md)** — Learn how to actually run the program, step by step
+4. **[Section 4: The Network](/cookbook/04-network.md)** — Know who matters and how they connect
+5. **[Section 5: The Vision](/cookbook/05-vision.md)** — Understand the deeper "why" and methodology
 
 **Then reference as needed:**
-- **[Detailed Budget Framework](/docs/financial-operations/budget-framework-detailed.md)** — Financial planning and staffing
-- **[Project Status](/docs/project-status/status-Jul22.md)** — Where things stand
+- **[Detailed Budget Framework](/financial-operations/budget-framework-detailed.md)** — Financial planning and staffing
+- **[Project Status](/project-status/status-Jul22.md)** — Where things stand
 
 ---
 
@@ -28,15 +28,15 @@ Want to run this program in Kyiv, Krakow, Chicago, or elsewhere?
 Start with the **Methodology of Serendipity** — the 5-question framework that makes replication possible:
 
 **Essential Reading:**
-- **[Methodology of Serendipity](/docs/for-replicators/methodology.md)** — The intellectual core
-- **[Selection Process](/docs/for-replicators/selection-process.md)** — How to build your nominator network
-- **[Host Organization Vetting](/docs/for-replicators/host-org-vetting.md)** — Finding and working with partners
-- **[Staffing Model](/docs/for-replicators/staffing.md)** — Five essential roles and salary ranges by city
-- **[Budget Templates](/docs/for-replicators/budgets.md)** — Cost models for Kyiv, Krakow, Chicago
+- **[Methodology of Serendipity](/for-replicators/methodology.md)** — The intellectual core
+- **[Selection Process](/for-replicators/selection-process.md)** — How to build your nominator network
+- **[Host Organization Vetting](/for-replicators/host-org-vetting.md)** — Finding and working with partners
+- **[Staffing Model](/for-replicators/staffing.md)** — Five essential roles and salary ranges by city
+- **[Budget Templates](/for-replicators/budgets.md)** — Cost models for Kyiv, Krakow, Chicago
 
 **Deep Dive:**
-- **[Financial Playbook](/docs/financial-operations/playbook.md)** — Complete financial architecture
-- **[Full Recipes Section](/docs/cookbook/03-recipes.md)** — Operational details from the Jerusalem model
+- **[Financial Playbook](/financial-operations/playbook.md)** — Complete financial architecture
+- **[Full Recipes Section](/cookbook/03-recipes.md)** — Operational details from the Jerusalem model
 
 ---
 
