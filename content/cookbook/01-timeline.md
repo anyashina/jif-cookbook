@@ -163,4 +163,4 @@ The decision to launch within 6 weeks (vs. planned 12-16 weeks) created operatio
 
 ---
 
-**Next Section:** [Section 2: Kitchen Notes](/docs/cookbook/02-kitchen-notes.md) — Stakeholder voices and perspectives (placeholder; awaiting interviews)
+**Next Section:** [Section 2: Kitchen Notes](/cookbook/02-kitchen-notes/) — Stakeholder voices and perspectives (placeholder; awaiting interviews)
