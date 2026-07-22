@@ -68,9 +68,10 @@ body {
 }
 
 .sidebar-header img {
-        max-width: 120px;
-        margin-bottom: 16px;
-    }
+    max-width: 180px;
+    width: 100%;
+    margin-bottom: 16px;
+}
     
     .sidebar-nav {
         display: grid;
@@ -353,6 +354,12 @@ body {
         position: static;
         margin-top: 30px;
     }
+
+.feather {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+}
 }
 
 /* SCROLLBAR */
