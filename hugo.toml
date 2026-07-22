@@ -7,21 +7,3 @@ publishDir = "docs"
 [params]
   description = "Operational and strategic knowledge for Jerusalem International Fellows"
   logo = "/assets/jif-logo.svg"
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "The Cookbook"
-    url = "#"
-    weight = 2
-  [[menu.main]]
-    name = "For Replicators"
-    url = "#"
-    weight = 3
-  [[menu.main]]
-    name = "Operations"
-    url = "#"
-    weight = 4
