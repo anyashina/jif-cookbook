@@ -17,7 +17,6 @@ Start here if you're stepping into the role of running this program in Jerusalem
 
 **Then reference as needed:**
 - **[Detailed Budget Framework](/financial-operations/budget-framework-detailed.md)** — Financial planning and staffing
-- **[Project Status](/project-status/status-Jul22.md)** — Where things stand
 
 ---
 
@@ -32,7 +31,7 @@ Start with the **Methodology of Serendipity** — the 5-question framework that 
 - **[Selection Process](/for-replicators/selection-process.md)** — How to build your nominator network
 - **[Host Organization Vetting](/for-replicators/host-org-vetting.md)** — Finding and working with partners
 - **[Staffing Model](/for-replicators/staffing.md)** — Five essential roles and salary ranges by city
-- **[Budget Templates](/for-replicators/budgets.md)** — Cost models for Kyiv, Krakow, Chicago
+- **[Budget Templates](/for-replicators/budgets.md)** — Cost models for different cities
 
 **Deep Dive:**
 - **[Financial Playbook](/financial-operations/playbook.md)** — Complete financial architecture
@@ -97,22 +96,6 @@ The Methodology of Serendipity (5-question framework) transfers to any city with
 
 ---
 
-## **Project Status**
-
-**Cookbook Completion: 80%**
-
-**Ready for Review:**
-- ✅ Sections 1-4 (Complete and final)
-- ✅ Section 3 with expanded budget framework (NEW July 2026)
-
-**Pending:**
-- ⏳ Section 5 (40-50% complete; awaiting final reflection)
-- ⏳ Chef's Note (60% complete; awaiting voice refinement)
-
-**Financial Audit:** Complete. 2022 documented revenue: $60,000 verified (Russell Berrie $50K + Bloomberg $10K). Individual donor pool: 35+ identified (amounts pending verification).
-
----
-
 ## **How to Use This Site**
 
 **Browse by task:**
@@ -147,9 +130,8 @@ Executive Search and Rescue
 
 ---
 
-**Last Updated:** July 22, 2026  
-**Status:** Draft (80% complete, Sections 1-4 ready for review)
+**Last Updated:** July 22, 2026
 
 ---
 
-**Start reading. Share feedback. Build the next iteration.**
+**The kitchen is ready. Start cooking. Make notes. Build the next recipe.**
