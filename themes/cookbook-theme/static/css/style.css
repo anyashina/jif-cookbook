@@ -212,6 +212,45 @@ body {
     color: #333;
 }
 
+/* TABLE STYLES */
+.page-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 28px 0;
+    background: white;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.page-content table thead {
+    background: var(--navy);
+    color: white;
+}
+
+.page-content table th {
+    padding: 14px 16px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+}
+
+.page-content table td {
+    padding: 12px 16px;
+    border-bottom: 1px solid #e8e8e8;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.page-content table tbody tr:hover {
+    background: rgba(58, 138, 136, 0.03);
+}
+
+.page-content table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+
 .page-content blockquote {
     border-left: 4px solid var(--teal);
     padding-left: 15px;

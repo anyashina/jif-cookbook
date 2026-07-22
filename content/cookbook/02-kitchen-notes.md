@@ -116,3 +116,7 @@ Diana was "adopted" by the Fellows and vice versa. She invited them to her home 
 | Per diem | 2 | Insufficient for local costs; sticker shock on arrival |
 | Host organization support for artist | 4 | Mixed; some had bandwidth, others stretched thin |
 | Host organization tours | 5 | Excellent and essential |
+
+---
+
+**Next Section:** [Section 3: The Recipes](/cookbook/03-recipes/) — Operational procedures, decision matrix, and job descriptions
