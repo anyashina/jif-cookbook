@@ -127,10 +127,28 @@
     .sidebar h1 {
       font-family: var(--font-display);
       color: var(--accent-navy);
-      font-size: 1.5rem;
+      font-size: 1.8rem;
       border-bottom: 2px solid var(--primary-teal);
       padding-bottom: var(--spacing-sm);
       margin-bottom: var(--spacing-lg);
+      font-weight: 700;
+      letter-spacing: -0.01em;
+    }
+    
+    /* Sidebar branding */
+    .sidebar::before {
+      content: "Jerusalem International Fellows";
+      display: block;
+      font-family: var(--font-display);
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: var(--accent-navy);
+      margin-bottom: var(--spacing-lg);
+      padding-top: var(--spacing-lg);
+      padding-bottom: var(--spacing-md);
+      border-bottom: 2px solid var(--primary-teal);
+      text-align: center;
+      letter-spacing: -0.02em;
     }
 
     /* Header / Nav */

@@ -1,21 +1,42 @@
-* [Home](/)
+* [Home](/home.md)
 
-## The Cookbook
+---
 
-* [Overview](/docs/cookbook/)
+## **THE COOKBOOK**
+
+### **For the Next Director**
 * [Section 1: Timeline](/docs/cookbook/01-timeline.md)
 * [Section 2: Kitchen Notes](/docs/cookbook/02-kitchen-notes.md)
 * [Section 3: The Recipes](/docs/cookbook/03-recipes.md)
+  * [Expanded Budget Framework (NEW)](/docs/cookbook/03-recipes-EXPANDED-Jul22.md)
 * [Section 4: The Network](/docs/cookbook/04-network.md)
 * [Section 5: The Vision](/docs/cookbook/05-vision.md)
 
-## Financial Operations
+### **For Replicators in Another City**
+* [Selection Process](/docs/for-replicators/selection-process.md)
+* [Host Organization Vetting](/docs/for-replicators/host-org-vetting.md)
+* [Staffing Model](/docs/for-replicators/staffing.md)
+* [Budget Templates](/docs/for-replicators/budgets.md)
+* [Methodology of Serendipity](/docs/for-replicators/methodology.md)
 
-* [Playbook Overview](/docs/financial-operations/playbook.md)
+---
+
+## **FINANCIAL & OPERATIONS**
+
+* [Financial Playbook](/docs/financial-operations/playbook.md)
+* [Detailed Budget Framework (NEW)](/docs/financial-operations/budget-framework-detailed.md)
 * [Materials Inventory](/docs/financial-operations/materials-inventory.md)
-* [Budget Templates](/docs/financial-operations/templates.md)
 
-## Supporting Documents
+---
+
+## **PROJECT STATUS**
+
+* [Current Status (July 22, 2026)](/docs/project-status/status-Jul22.md)
+* [Section 3 Updates](/docs/project-status/section3-updates-summary.md)
+
+---
+
+## **SUPPORTING DOCUMENTS**
 
 * [Org Chart & Job Descriptions](/docs/supporting-documents/org-chart.md)
 * [Startup Timeline](/docs/supporting-documents/startup-timeline.md)
@@ -24,16 +45,3 @@
 * [Strategic Plan (2014-2018)](/docs/supporting-documents/2014-strategic-plan.md)
 * [MailChimp Voice Analysis](/docs/supporting-documents/mailchimp-voice.md)
 * [Press Archive](/docs/supporting-documents/press.md)
-
-## For Replicators
-
-* [Overview](/docs/for-replicators/)
-* [Budget Templates](/docs/for-replicators/budgets.md)
-* [Staffing Model](/docs/for-replicators/staffing.md)
-* [Host Organization Vetting](/docs/for-replicators/host-org-vetting.md)
-* [Selection Process](/docs/for-replicators/selection-process.md)
-* [Methodology of Serendipity](/docs/for-replicators/methodology.md)
-
-## Archive
-
-* [Historical Documents](/docs/archive/)

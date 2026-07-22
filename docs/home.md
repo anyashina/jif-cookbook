@@ -1,151 +1,155 @@
-# Welcome to The Cookbook
+# Jerusalem International Fellows: The Cookbook
 
-**Jerusalem International Fellows: The Cookbook** is a practitioner's guide for understanding, replicating, and sustaining a transformative cultural residency program in any city.
-
----
-
-## What This Is
-
-The Cookbook captures 16 years of institutional knowledge from the Jerusalem International Fellows program:
-
-- **History:** How the program evolved from 2010 to 2022
-- **Operations:** How to actually run the program (staffing, budgets, timelines, relationships)
-- **Relationships:** Who the key people are and how they connect
-- **Vision:** Why this model matters and how it can be adapted for other contexts
-
-This is not an archive. It's a **working guide for the next director**.
+A practitioner's guide to understanding, running, and replicating the Jerusalem International Fellows residency model.
 
 ---
 
-## Where to Start
+## **For the Next Director**
 
-**If you're the next director of JIF:**
-1. Read [Section 3: The Recipes](cookbook/03-recipes.md) — This is your operational manual
-2. Review [Financial Operations Playbook](supporting-documents/financial-playbook.md) — Understand the money
-3. Review [Section 1: The Timeline](cookbook/01-timeline.md) — Understand program history and evolution
-4. Consult [The Recipes](cookbook/03-recipes.md) — Detailed operational procedures
+Start here if you're stepping into the role of running this program in Jerusalem or elsewhere.
 
-**If you're replicating this program in a new city:**
-1. Read [The Methodology of Serendipity](for-replicators/methodology.md) — Understand the framework
-2. Review [Budget Templates](for-replicators/budgets.md) — Customize for your city
-3. Consult [Host Organization Vetting](for-replicators/host-org-vetting.md) — Find your partners
-4. Study [Selection Process](for-replicators/selection-process.md) — Build your nominator network
+**Read in this order:**
+1. **[Section 1: The Timeline](/docs/cookbook/01-timeline.md)** — Understand the program's evolution and key decisions
+2. **[Section 2: Kitchen Notes](/docs/cookbook/02-kitchen-notes.md)** — Hear directly from Fellows, hosts, and cultural leaders
+3. **[Section 3: The Recipes](/docs/cookbook/03-recipes.md)** — Learn how to actually run the program, step by step
+4. **[Section 4: The Network](/docs/cookbook/04-network.md)** — Know who matters and how they connect
+5. **[Section 5: The Vision](/docs/cookbook/05-vision.md)** — Understand the deeper "why" and methodology
 
-**If you're a board member or funder:**
-1. Read [Section 5: The Vision](cookbook/05-vision.md) — Understand the mission
-2. Review [Financial Operations Playbook](supporting-documents/financial-playbook.md) — See the funding model
-3. Consult [Budget Templates](for-replicators/budgets.md) — Understand cost by scale
+**Then reference as needed:**
+- **[Detailed Budget Framework](/docs/financial-operations/budget-framework-detailed.md)** — Financial planning and staffing
+- **[Project Status](/docs/project-status/status-Jul22.md)** — Where things stand
 
 ---
 
-## The Five Sections
+## **For Replicators in Another City**
 
-### 1. **Timeline** — Program history
-Chronological record of the program's evolution, structural changes, key inflection points, and the decisions that shaped the work.
+Want to run this program in Kyiv, Krakow, Chicago, or elsewhere?
 
-[Read Section 1 →](cookbook/01-timeline.md)
+Start with the **Methodology of Serendipity** — the 5-question framework that makes replication possible:
 
-### 2. **Kitchen Notes** — Stakeholder voices
-Direct quotes and perspectives from Fellows, host organization directors, local cultural figures, and staff. What did they experience? What worked? What didn't?
+**Essential Reading:**
+- **[Methodology of Serendipity](/docs/for-replicators/methodology.md)** — The intellectual core
+- **[Selection Process](/docs/for-replicators/selection-process.md)** — How to build your nominator network
+- **[Host Organization Vetting](/docs/for-replicators/host-org-vetting.md)** — Finding and working with partners
+- **[Staffing Model](/docs/for-replicators/staffing.md)** — Five essential roles and salary ranges by city
+- **[Budget Templates](/docs/for-replicators/budgets.md)** — Cost models for Kyiv, Krakow, Chicago
 
-*Status: Placeholder — awaiting interviews with Ruth Cummings, Elana Ben-Haim, Nermeen Shweiki, and others*
-
-[Read Section 2 →](cookbook/02-kitchen-notes.md)
-
-### 3. **The Recipes** — How it actually runs
-Operational guide: nomination process, host organization selection, week-by-week structure, role of the disorientation week, salon design, staff responsibilities, decision-making.
-
-[Read Section 3 →](cookbook/03-recipes.md)
-
-### 4. **The Network** — Relationship map
-Who the key people are, what role they play, how they connect to each other. The network you spent 16 years building.
-
-*Status: Held — sequencing and depth TBD*
-
-[Read Section 4 →](cookbook/04-network.md)
-
-### 5. **The Vision** — Why this matters
-Elise's reflection on what was built, what she wants for it, and the Methodology of Serendipity: the framework for replication in other cities.
-
-[Read Section 5 →](cookbook/05-vision.md)
+**Deep Dive:**
+- **[Financial Playbook](/docs/financial-operations/playbook.md)** — Complete financial architecture
+- **[Full Recipes Section](/docs/cookbook/03-recipes.md)** — Operational details from the Jerusalem model
 
 ---
 
-## Supporting Materials
+## **What This Cookbook Contains**
 
-**Historical Reference & Evaluation**
-- [2022 On Track Consulting Evaluation](supporting-documents/2022-evaluation.md) — Independent assessment of the pilot residency
-- [Financial Operations Playbook](supporting-documents/financial-playbook.md) — Staffing costs, per-fellow budgets, cash flow models
-- [2014-2018 Bellagio Strategic Plan](supporting-documents/strategic-plan-2014-2018.md) — Five-year expansion roadmap
-- [MailChimp Voice Synthesis](supporting-documents/mailchimp-voice.md) — Public communications archive (2022-2025)
-- [Press Archive](supporting-documents/press-archive.md) — News coverage and cultural diplomacy impact
+### **The Five Sections**
 
-**For Replicators**
-- [The Methodology of Serendipity](for-replicators/methodology.md) — Five core questions for adaptation
-- [Budget Templates](for-replicators/budgets.md) — Scalable models for three cost-of-living tiers
-- [Staffing Model](for-replicators/staffing.md) — Organizational structure and hiring timelines
-- [Host Organization Vetting](for-replicators/host-org-vetting.md) — Partnership evaluation rubric
-- [Fellow Recruitment & Selection](for-replicators/selection-process.md) — Closed nomination system
+**Timeline** — Chronological record of program evolution (2006-2023): cohort changes, structural redesigns, political shifts, key partnerships.
 
----
+**Kitchen Notes** — Stakeholder voices: what Fellows experienced, what hosts learned, what staff observed. Their words, not interpreted.
 
-## Document Status
+**The Recipes** — How the program actually runs: selection process, disorientation week, weekly salons, host collaboration, staffing, budgets, decision-making.
 
-| Section | Status | Last Updated |
-|---------|--------|--------------|
-| Timeline | Complete | June 23, 2022 |
-| Kitchen Notes | Placeholder | TBD |
-| The Recipes | Complete | July 19, 2026 |
-| The Network | Held | TBD |
-| The Vision | Drafted | July 2026 |
-| Financial Playbook | Complete | July 19, 2026 |
+**The Network** — 35+ people mapped by role and relationship. Who they are, what they do, how they connect. Includes decision-making framework.
+
+**The Vision** — Elise's reflection on what was built and what she wants for it. Centers on the Methodology of Serendipity and conditions for replication.
+
+### **Supporting Materials**
+
+- **Financial Operations Playbook** — Detailed cost architecture, multi-city models, staffing rates
+- **2022 Evaluation** — Independent assessment of program impact and operations
+- **Strategic Plan (2014-2018)** — Historical context and evolution
+- **MailChimp Voice Analysis** — Communication patterns and brand voice
+- **Press Archive** — Media coverage and external perspectives
 
 ---
 
-## What's Pending
+## **Key Takeaways (TL;DR)**
 
-An email was sent to Elise Bernhardt on July 19, 2026 requesting:
+**The Model:**
+- 10-week intensive artist residency in a complex geopolitical city
+- 4-6 international artists hosted by local cultural organizations
+- Weekly salons (36 over 10 weeks) bringing together artists, curators, community
+- Deliberate disorientation week to expose competing narratives
+- Relationships continue 3+ years after the residency
 
-1. **2022 Actual P&L** — Total spend by category, revenue by donor
-2. **Staff Salaries** — Elana Ben-Haim (PD) and Nermeen Shweiki (Comms) 2022 amounts
-3. **Donor List** — Complete list of 2022 funders
-4. **Feel Beit Relationship** — Co-funder, co-host, or partner status
+**Staffing Required:**
+1. Executive Director (strategy, fundraising)
+2. Program Director (on-ground operations)
+3. Communications Manager (salon curation, translation, press)
+4. Finance/Bookkeeper (budgets, receipts, currency transfers)
+5. Host Organization Coordinators (1 per host; logistical support)
 
-Once received, estimated 2-3 hours to complete financial reconciliation and update variance analysis.
+**Budget:**
+- $156,500 for 4-Fellow cohort (Jerusalem 2022 baseline)
+- $199,600 for 6-Fellow cohort (recommended optimal scale; 15% cheaper per Fellow)
+- Requires diversified funding: 30-40% major foundations, 20-30% mid-level, 20-30% individual, 10-15% in-kind
 
----
+**Timeline:**
+- Nominator cultivation: Ongoing, cannot pause between cohorts
+- Host org vetting: 18-24 months before cohort
+- Artist selection: 4-5 months (nominators cultivated 2-3 years prior)
+- Staff hiring: 12-16 weeks before cohort (do not compress)
+- Program: 10 weeks intensive + 2 weeks post-residency processing
 
-## How to Use This Site
-
-**Search:** Use the search box (top right) to find topics across all sections.
-
-**Navigate:** Use the sidebar to browse by section or topic.
-
-**Download:** Every page is a markdown file that can be downloaded and edited.
-
-**Contribute:** This is a living document. If something is unclear, missing, or wrong, contact the maintainer.
-
----
-
-## Access & Permissions
-
-**Current Editors:** Alexandra Nyashina (consultant), Elise Bernhardt (client)
-
-**Future Owner:** Elise Bernhardt will become the main owner and can grant access to the next director, board members, or others as needed.
-
----
-
-## Questions?
-
-- **For immediate questions:** alexandra@alexandranyashina.com
-- **For long-term ownership:** elise@executivesearchandrescue.com
-- **To contribute or report issues:** GitHub repository (link in top navigation)
+**Replication:**
+The Methodology of Serendipity (5-question framework) transfers to any city with geopolitical complexity. The specific institutions, political boundaries, and named relationships are Jerusalem-specific. The underlying questions adapt to local context.
 
 ---
 
-**Prepared by:** Alexandra Nyashina, ANyashina LLC  
-**For:** Elise Bernhardt, Executive Search and Rescue  
-**Project:** Jerusalem International Fellows: The Cookbook  
-**Date:** July 19, 2026
+## **Project Status**
 
-This is a practitioner's guide, not an archive. It is designed so that a future leader can understand, navigate, and continue the work.
+**Cookbook Completion: 80%**
+
+**Ready for Review:**
+- ✅ Sections 1-4 (Complete and final)
+- ✅ Section 3 with expanded budget framework (NEW July 2026)
+
+**Pending:**
+- ⏳ Section 5 (40-50% complete; awaiting final reflection)
+- ⏳ Chef's Note (60% complete; awaiting voice refinement)
+
+**Financial Audit:** Complete. 2022 documented revenue: $60,000 verified (Russell Berrie $50K + Bloomberg $10K). Individual donor pool: 35+ identified (amounts pending verification).
+
+---
+
+## **How to Use This Site**
+
+**Browse by task:**
+- Click any section in the sidebar to jump to it
+- Use the search box to find specific topics
+- Click links within sections to explore related material
+
+**On your tablet:**
+- Download individual sections as PDF
+- Annotate with Apple Pencil
+- Mark revisions and send feedback
+
+**As a reference:**
+- Bookmark specific sections
+- Return to The Recipes whenever you need operational detail
+- Reference The Network when you need to know who to call
+
+---
+
+## **Contact**
+
+**Prepared by:**  
+Alexandra Nyashina, ANyashina LLC  
+Knowledge Management & Institutional Memory Consultant  
+ask@alexandranyashina.com | (929) 249-0917  
+alexandranyashina.com
+
+**For:**  
+Elise Bernhardt, Jerusalem International Fellows  
+Director (Founder, Transitioning to Advisory)  
+Executive Search and Rescue
+
+---
+
+**Last Updated:** July 22, 2026  
+**Status:** Draft (80% complete, Sections 1-4 ready for review)
+
+---
+
+**Start reading. Share feedback. Build the next iteration.**
