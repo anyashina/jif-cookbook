@@ -91,3 +91,7 @@ Any director who tries to replicate the Jerusalem program by flying to three oth
 ### Personal Reflection from Elise
 
 [This section awaits Elise's written reflection on why this work matters, what she hopes for the program, and what she wants the next director to know about the weight and possibility of this work. To be added during final review.]
+
+---
+
+**Return to:** [The Cookbook Home](/cookbook/) — Start from the beginning

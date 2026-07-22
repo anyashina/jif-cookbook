@@ -334,3 +334,7 @@ The 2022 program ran during a relatively stable political moment (though no mome
 - Maintain relationships with medical providers and crisis counselors
 
 **2022 Example:** Contingency funds were used when Claudia needed insurance to film at Ein Prat nature preserve, enabling that project's completion.
+
+---
+
+**Next Section:** [Section 4: The Network / Ingredients](/cookbook/04-network/) — Core relationships, host organizations, and the 2022 cohort

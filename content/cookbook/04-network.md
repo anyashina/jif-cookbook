@@ -71,3 +71,7 @@ All four provided detailed feedback in evaluation report. All expressed interest
 - **Claudia Lavista** (Mazatlán, Mexico; choreographer/dancer; Delfos Contemporary Dance founder; National Dance Award winner)
 - **Anna Lublina** (New York via Germany; interdisciplinary performance artist; Yiddishkayt Helix Fellow; studying MA Choreography at University of Giessen)
 - **Sofia Borges** (São Paulo, Brazil; conceptual/visual artist; featured at MoMA 2018; First Book Award 2016; Foam Talent Dutch Award 2019)
+
+---
+
+**Next Section:** [Section 5: The Vision](/cookbook/05-vision/) — Methodology of serendipity and replication framework
