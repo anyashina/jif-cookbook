@@ -1,19 +1,29 @@
-<svg viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 800 350" xmlns="http://www.w3.org/2000/svg">
   <!-- White background -->
-  <rect width="800" height="280" fill="#F7F4F0"/>
+  <rect width="800" height="350" fill="#F7F4F0"/>
+  
+  <!-- Google Fonts style link simulation - using geometric Art-Deco inspired text -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300;600&display=swap');
+    </style>
+  </defs>
   
   <!-- JERUSALEM -->
-  <text x="400" y="80" font-family="Arial, sans-serif" font-size="90" font-weight="300" letter-spacing="8" text-anchor="middle" fill="#C9B8A1">
+  <text x="400" y="100" font-family="'Big Shoulders Display', sans-serif" font-size="84" font-weight="300" letter-spacing="12" text-anchor="middle" fill="#D2B26A" text-transform="uppercase">
     JERUSALEM
   </text>
   
   <!-- INTERNATIONAL -->
-  <text x="400" y="160" font-family="Arial, sans-serif" font-size="90" font-weight="300" letter-spacing="8" text-anchor="middle" fill="#C9B8A1">
+  <text x="400" y="180" font-family="'Big Shoulders Display', sans-serif" font-size="84" font-weight="300" letter-spacing="12" text-anchor="middle" fill="#D2B26A" text-transform="uppercase">
     INTERNATIONAL
   </text>
   
   <!-- FELLOWS -->
-  <text x="400" y="240" font-family="Arial, sans-serif" font-size="90" font-weight="300" letter-spacing="8" text-anchor="middle" fill="#C9B8A1">
+  <text x="400" y="260" font-family="'Big Shoulders Display', sans-serif" font-size="84" font-weight="300" letter-spacing="12" text-anchor="middle" fill="#D2B26A" text-transform="uppercase">
     FELLOWS
   </text>
+  
+  <!-- Accent line -->
+  <line x1="150" y1="285" x2="650" y2="285" stroke="#D2B26A" stroke-width="2" opacity="0.5"/>
 </svg>
