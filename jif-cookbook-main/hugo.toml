@@ -1,0 +1,9 @@
+baseURL = "https://anyashina.github.io/jif-cookbook/"
+languageCode = "en-us"
+title = "JIF Cookbook"
+theme = "cookbook-theme"
+publishDir = "docs"
+
+[params]
+  description = "Operational and strategic knowledge for Jerusalem International Fellows"
+  logo = "/assets/jif-logo.svg"

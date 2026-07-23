@@ -1,0 +1,19 @@
+[build]
+publish = "docs"
+command = "hugo --gc --minify"
+
+[build.environment]
+HUGO_VERSION = "0.123.7"
+HUGO_ENV = "production"
+
+[context.production.environment]
+HUGO_VERSION = "0.123.7"
+HUGO_ENV = "production"
+
+[context.deploy-preview]
+command = "hugo --gc --minify --buildFuture"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
